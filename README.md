@@ -34,3 +34,10 @@
 - Improving the UI by applying clean UI and animation 
 - UI testing
 
+
+
+
+https://user-images.githubusercontent.com/14309764/161561436-6d9d52f6-cf6b-4b6f-9928-f55a1d9cc7c8.mp4
+
+
+
